@@ -5,8 +5,8 @@ import numpy as np
 from datetime import datetime
 
 # Token dan Chat ID Telegram
-TOKEN = ""
-CHAT_ID = ""
+TOKEN = "7686877565:AAE1RYnpZOAZbT7h6_33_1GEsD8vnpChP-Y"
+CHAT_ID = "7762801197"
 
 # Simpan harga 1 jam lalu
 price_history = {}
